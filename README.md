@@ -149,7 +149,7 @@ In short:
 ## Contact
 
 **Shahzeb Shakir** — Software Engineer (PHP / Laravel, Python, AI-assisted development)
-LinkedIn: _[add your profile link]_
+LinkedIn: [linkedin.com/in/shahzeb-shakir-028aa8210](https://www.linkedin.com/in/shahzeb-shakir-028aa8210/)
 
 © Shahzeb Shakir. All rights reserved. This code is shared for evaluation only;
 see [LICENSE](LICENSE).
